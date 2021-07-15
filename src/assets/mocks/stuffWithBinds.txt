@@ -1,0 +1,3712 @@
+CONTROLBAR:SpecialAbilityRangerAmbush
+"Ambush For&mation"
+END
+
+CONTROLBAR:SiegeRetract
+// context: retract ramp back into the siege tower
+"&Retract"
+END
+
+CONTROLBAR:GrabPassenger
+"Grab &Weapon"
+END
+
+CONTROLBAR:EntFindRock
+"Find a &Rock"
+END
+
+CONTROLBAR:TrollFindRock
+"Find a &Rock"
+END
+
+CONTROLBAR:TrollFindTastyOrc
+"F&ind an Orc to Eat"
+END
+
+CONTROLBAR:GrabBuildingChunk
+"Grab &Building Chunk"
+END
+
+CONTROLBAR:SpecialAbilityIgnite
+"&Ignite"
+END
+
+CONTROLBAR:SpecialAbilityFlamingSword
+"F&laming Sword"
+END
+
+CONTROLBAR:SpecialAbilityFireWhip
+"Fire &Whip"
+END
+
+CONTROLBAR:SpecialAbilityBalrogScream
+"Screa&m"
+END
+
+CONTROLBAR:SpecialAbilityBalrogBreath
+"B&reathe Fire"
+END
+
+CONTROLBAR:SpecialAbilityBalrogWings
+"Wi&ngs"
+END
+
+CONTROLBAR:KnifeFighter
+"Knife Figh&ter"
+END
+
+CONTROLBAR:DwarfToss
+"Grab Gi&mli"
+END
+
+CONTROLBAR:ChargeAttack
+"&Charge Attack"
+END
+
+CONTROLBAR:Guard
+"&Guard"
+END
+
+CONTROLBAR:GuardUnit
+"Guard &Unit"
+END
+
+CONTROLBAR:GuardWithoutPursuit
+"Guard &Close"
+END
+
+CONTROLBAR:GuardFlyingUnitsOnly
+"Guard Ai&r"
+END
+
+CONTROLBAR:AttackMove
+"&Attack Move"
+END
+
+CONTROLBAR:Stop
+"&Stop"
+END
+
+CONTROLBAR:Waypoints
+"&Waypoint"
+END
+
+CONTROLBAR:CancelBuild
+"&Cancel Build"
+END
+
+CONTROLBAR:Contaminate
+"&Contaminate"
+END
+
+CONTROLBAR:PlantShield
+// context: When the Gondor Tower Shield Guard plants his shield into the ground to enter defensive mode.
+"&Plant Shield"
+END
+
+CONTROLBAR:RaiseShield
+// context: When the Gondor Tower Shield Guard raises his shield from the ground to be able to move faster.
+"&Raise Shield"
+END
+
+CONTROLBAR:StructureExit
+"E&xit Structure"
+END
+
+CONTROLBAR:SetRallyPoint
+"&Rally Point"
+END
+
+CONTROLBAR:TrollFindTree
+"Find a &Tree"
+END
+
+CONTROLBAR:ConstructWarg
+"&Warg"
+END
+
+CONTROLBAR:ConstructSpider
+"Spider&ling"
+END
+
+CONTROLBAR:ConstructBarrowWight
+"&Wight"
+END
+
+CONTROLBAR:UnpackRohanFarm
+"Rohan &Farm"
+END
+
+CONTROLBAR:ConstructMenWallHub
+"&Wall Hub"
+END
+
+CONTROLBAR:ConstructMenFortress
+"&Fortress"
+END
+
+CONTROLBAR:UnpackLumbermill
+"Build L&umber Mill"
+END
+
+CONTROLBAR:UnpackSlaughterhouse
+"Build Slaughte&r House"
+END
+
+CONTROLBAR:ConstructMenPorter
+"Bui&lder"
+END
+
+CONTROLBAR:ConstructMenFarm
+"Build Fa&rm"
+END
+
+CONTROLBAR:ConstructMenBarracks
+"Build Barra&cks"
+END
+
+CONTROLBAR:ConstructMenArcheryRange
+"Build Archer&y Range"
+END
+
+CONTROLBAR:ConstructMenStable
+"Build St&ables"
+END
+
+CONTROLBAR:ConstructMenWorkshop
+"Build Sie&ge Works"
+END
+
+CONTROLBAR:ConstructMenSentryTower
+"Build Ba&ttle Tower"
+END
+
+CONTROLBAR:ConstructMenWell
+"Bui&ld Well"
+END
+
+CONTROLBAR:ConstructMenStatue
+"*Build Heroic Statue - &V"
+END
+
+CONTROLBAR:ConstructMenBlacksmith
+"Build Blac&ksmith"
+END
+
+CONTROLBAR:ConstructMenMarketPlace
+"Build &Marketplace"
+END
+
+CONTROLBAR:SelectAllHeroes
+"Select All Her&oes"
+END
+
+CONTROLBAR:SelectNearestBuilder
+"Select Nearest &Builder"
+END
+
+CONTROLBAR:ConstructGondorWall
+"Build Gondor &Wall"
+END
+
+CONTROLBAR:BattleTowerUpgrade
+"Build Battle Towe&r Upgrade"
+END
+
+CONTROLBAR:PosternGateUpgrade
+"Build &Postern Gate Upgrade"
+END
+
+CONTROLBAR:FlagsUpgrade
+"Build W&all Banner Upgrade"
+END
+
+CONTROLBAR:ConstructGondorArcheryRangeLevel2Upgrade
+"&Upgrade Archery Range to Level 2"
+END
+
+CONTROLBAR:ConstructGondorArcheryRangeLevel3Upgrade
+"&Upgrade Archery Range to Level 3"
+END
+
+CONTROLBAR:ConstructGondorBarracks2Upgrade
+"&Upgrade Barracks to Level 2"
+END
+
+CONTROLBAR:ConstructGondorBarracksLevel3Upgrade
+"&Upgrade Barracks to Level 3"
+END
+
+CONTROLBAR:ConstructGondorStable2Upgrade
+"&Upgrade Stables to Level 2"
+END
+
+CONTROLBAR:ConstructGondorStableLevel3Upgrade
+"&Upgrade Stables to Level 3"
+END
+
+CONTROLBAR:ConstructGondorWorkshop2Upgrade
+"&Upgrade Siege Works to Level 2"
+END
+
+CONTROLBAR:ConstructGondorWorkshopLevel3Upgrade
+"&Upgrade Siege Works to Level 3"
+END
+
+CONTROLBAR:ConstructRohanArmory
+"Build Rohan Armor&y"
+END
+
+CONTROLBAR:ConstructRohanBarracks
+"Build Rohan &Barracks"
+END
+
+CONTROLBAR:ConstructRohanWell
+"Build Rohan We&ll"
+END
+
+CONTROLBAR:ConstructRohanWatchTower
+"Build Rohan Watch&Tower"
+END
+
+CONTROLBAR:ConstructRohanArcherRange
+"Build &Rohan Archery Range"
+END
+
+CONTROLBAR:ConstructRohanStable
+"Build Rohan &Stable"
+END
+
+CONTROLBAR:ConstructRohanFarm
+"Build Rohan &Farm"
+END
+
+CONTROLBAR:ConstructRohanStatue
+"Build Rohan Sta&tue"
+END
+
+CONTROLBAR:ConstructMordorOrcPit
+"Build Or&c Pit"
+END
+
+CONTROLBAR:BuildMordorWorker
+"Orc &Laborer"
+END
+
+CONTROLBAR:ConstructMordorTrollCage
+"Build &Troll Cage"
+END
+
+CONTROLBAR:ConstructMordorSiegeWorks
+"Build &Great Siege Works"
+END
+
+CONTROLBAR:ConstructMordorHaradrimPalace
+"Buil&d Haradrim Palace"
+END
+
+CONTROLBAR:ConstructSlaughterHouse
+"Build Slaughte&r House"
+END
+
+CONTROLBAR:ConstructLumberMill
+"Build L&umber Mill"
+END
+
+CONTROLBAR:ConstructFurnace
+"Build Furna&ce"
+END
+
+CONTROLBAR:ConstructMordorUmbarTavern
+"Build Ta&vern"
+END
+
+CONTROLBAR:ConstructIsengardUrukPit
+"Build Uruk Pi&t"
+END
+
+CONTROLBAR:ConstructIsengardWargPit
+"Build Wa&rg Pit"
+END
+
+CONTROLBAR:ConstructIsengardSiegeWorks
+"Build Sie&ge Works"
+END
+
+CONTROLBAR:ConstructIsengardArmory
+"Build &Armory"
+END
+
+CONTROLBAR:ConstructIsengardBattleTower
+"&Lookout Tower"
+END
+
+CONTROLBAR:ConstructWildMineShaft
+"Build &Tunnel"
+END
+
+CONTROLBAR:ConstructWildLumberMill
+"Build L&umber Mill"
+END
+
+CONTROLBAR:ConstructWildGoblinCave
+"Build Goblin &Cave"
+END
+
+CONTROLBAR:ConstructWildGoblinFissure
+"Build Fissu&re"
+END
+
+CONTROLBAR:ConstructWildWildSpiderPit
+"Build Spi&der Pit"
+END
+
+CONTROLBAR:ConstructWildFortress
+"Build &Fortress"
+END
+
+CONTROLBAR:ConstructWildTreasureTrove
+"Build Treasure Tro&ve"
+END
+
+CONTROLBAR:ConstructWildPorter
+"Bui&lder"
+END
+
+CONTROLBAR:ConstructEntMoot
+"Build Ent &Moot"
+END
+
+CONTROLBAR:SpecialAbilitySarumanFireball
+"Fi&reball"
+END
+
+CONTROLBAR:ConstructGondorArcherHorde
+"Gondor &Archers"
+END
+
+CONTROLBAR:ConstructGondorRangerHorde
+"Ithilien &Rangers"
+END
+
+CONTROLBAR:ConstructGondorFighterHorde
+"Gon&dor Soldiers"
+END
+
+CONTROLBAR:ConstructGondorShieldGuardHorde
+"Gondor &Tower Guards"
+END
+
+CONTROLBAR:ConstructGondorKnightHorde
+"Gondor &Knights"
+END
+
+CONTROLBAR:ConstructGondorTrebuchet
+"T&rebuchet"
+END
+
+CONTROLBAR:ConstructIronOreUpgrade
+"&Iron Ore"
+END
+
+CONTROLBAR:ConstructGrandHarvestUpgrade
+"&Grand Harvest"
+END
+
+CONTROLBAR:ConstructSiegeMaterialsUpgrade
+"Siege &Materials"
+END
+
+CONTROLBAR:ConstructRohanRohirrimHorde
+"&Rohirrim"
+END
+
+CONTROLBAR:CreateAHeroHotkey
+"&CreateAHero"
+END
+
+CONTROLBAR:GondorAragornHotkey
+"&Aragorn"
+END
+
+CONTROLBAR:GondorFaramirHotkey
+"&Faramir"
+END
+
+CONTROLBAR:GondorBoromirHotkey
+"Borom&ir"
+END
+
+CONTROLBAR:GandalfTheWhiteHotkey
+"&Gandalf"
+END
+
+CONTROLBAR:RohanPippinHotkey
+"&Pippin"
+END
+
+CONTROLBAR:ConstructTreebeard
+"&Treebeard"
+END
+
+CONTROLBAR:RohanTheodenHotkey
+"&Theoden"
+END
+
+CONTROLBAR:RohanEowynHotkey
+"Eow&yn"
+END
+
+CONTROLBAR:RohanMerryHotkey
+"&Merry"
+END
+
+CONTROLBAR:RohanGimliHotkey
+"&Gimli"
+END
+
+CONTROLBAR:DwarvenDainHotkey
+"King &Dain"
+END
+
+CONTROLBAR:RohanEomerHotkey
+"&Eomer"
+END
+
+CONTROLBAR:RohanLegolasHotkey
+"&Legolas"
+END
+
+CONTROLBAR:ConstructGoblinFighterHorde
+"Goblin &Warriors"
+END
+
+CONTROLBAR:ConstructGoblinArcherHorde
+"Goblin &Archers"
+END
+
+CONTROLBAR:ConstructGoblinCaveTroll
+"&Cave Troll"
+END
+
+CONTROLBAR:ToggleSpiderRiderWeapons
+"Al&ternate Weapon"
+END
+
+CONTROLBAR:ConstructWildCaveLevel2Upgrade
+"&Upgrade Goblin Cave to Level 2"
+END
+
+CONTROLBAR:ConstructWildCaveLevel3Upgrade
+"&Upgrade Goblin Cave to Level 3"
+END
+
+CONTROLBAR:UpgradeWildFissureLevel2
+"&Upgrade Fissure to Level 2"
+END
+
+CONTROLBAR:UpgradeWildFissureLevel3
+"&Upgrade Fissure to Level 3"
+END
+
+CONTROLBAR:ConstructWildSpiderPitLevel2Upgrade
+"&Upgrade Spider Pit to Level 2"
+END
+
+CONTROLBAR:ConstructWildSpiderPitLevel3Upgrade
+"&Upgrade Spider Pit to Level 3"
+END
+
+CONTROLBAR:ConstructWildTreasureTroveLevel2Upgrade
+"&Upgrade Treasure Trove to Level 2"
+END
+
+CONTROLBAR:ConstructWildTreasureTroveLevel3Upgrade
+"&Upgrade Treasure Trove to Level 3"
+END
+
+CONTROLBAR:ConstructWildSpiderlingHorde
+"Spider&lings"
+END
+
+CONTROLBAR:ConstructWildSpiderRiderHorde
+"Goblin Spide&r Riders"
+END
+
+CONTROLBAR:ConstructWildMountainGiant
+"Mountain &Giant"
+END
+
+CONTROLBAR:ConstructWildMarauderHorde
+"Half-Troll &Marauders"
+END
+
+CONTROLBAR:ConstructMordorOrcFighterHorde
+"Orc &Warriors"
+END
+
+CONTROLBAR:ConstructMordorOrcArcherHorde
+"Orc &Archers"
+END
+
+CONTROLBAR:ConstructMordorEasterlingHorde
+"Eas&terlings"
+END
+
+CONTROLBAR:ConstructMordorMountainTroll
+"&Mountain Troll"
+END
+
+CONTROLBAR:ConstructMordorSiegeTower
+"Siege &Tower"
+END
+
+CONTROLBAR:ConstructMordorCatapult
+"&Catapult"
+END
+
+CONTROLBAR:ConstructMordorPorter
+"Bui&lder"
+END
+
+CONTROLBAR:MordorWitchKingOnFellBeastHotkey
+"The &Witch-king"
+END
+
+CONTROLBAR:MordorMouthofSauronHotkey
+"&Mouth of Sauron"
+END
+
+CONTROLBAR:ElvenGlorfindelHotkey
+"&Glorfindel"
+END
+
+CONTROLBAR:ElvenThranduilHotkey
+"&Thranduil"
+END
+
+CONTROLBAR:DwarvenGuardianChargeAttack
+"&Charge Attack"
+END
+
+CONTROLBAR:ConstructIsengardUrukHai
+"U&ruk-hai"
+END
+
+CONTROLBAR:ConstructIsengardCrossbowmen
+"Uruk &Crossbowmen"
+END
+
+CONTROLBAR:ConstructIsengardPikemen
+"Uruk &Pikemen"
+END
+
+CONTROLBAR:ConstructIsengardWildmanHorde
+"&Wildmen of Dunland"
+END
+
+CONTROLBAR:ConstructIsengardWargRider
+"&Warg Riders"
+END
+
+CONTROLBAR:ConstructIsengardSiegeBallista
+"Siege Ba&llista"
+END
+
+CONTROLBAR:ConstructIsengardBerserker
+"Uru&k Berserker"
+END
+
+CONTROLBAR:ConstructIsengardBatteringRam
+"Batte&ring Ram"
+END
+
+CONTROLBAR:ConstructIsengardExplosiveMine
+"Explosive &Mine"
+END
+
+CONTROLBAR:ConstructIsengardPorter
+"Bui&lder"
+END
+
+CONTROLBAR:ConstructIsengardHeavyArmorPorter
+"Heavy Armor &Porter"
+END
+
+CONTROLBAR:ConstructIsengardFireArrowPorter
+"Fire Arro&ws Porter"
+END
+
+CONTROLBAR:IsengardLurtzHotkey
+"&Lurtz"
+END
+
+CONTROLBAR:IsengardSarumanHotkey
+"&Saruman"
+END
+
+CONTROLBAR:ConstructEnt
+"E&nt"
+END
+
+CONTROLBAR:KickAndPunch
+"&Close Range Attack"
+END
+
+CONTROLBAR:ThrowRocks
+"Throw Ro&cks"
+END
+
+CONTROLBAR:FireArrowUpgrade
+"Fire Arro&ws"
+END
+
+CONTROLBAR:ShadeChomp
+"De&vour"
+END
+
+CONTROLBAR:SpecialAbilityDarkLordsLament
+"Dark Lord's &Lament"
+END
+
+CONTROLBAR:SpecialAbilityCallPack
+"&Call the Pack"
+END
+
+CONTROLBAR:tooltipCommand_ToggleEntRockThrow
+"&Toggle Rock-Throw Mode"
+END
+
+CONTROLBAR:ConstructMordorDrummerTrolls
+"&Drummer Troll"
+END
+
+CONTROLBAR:ConstructMordorBatteringRam
+"Batte&ring Ram"
+END
+
+CONTROLBAR:ToggleCatapultWeapons
+"Swi&tch Ammunition"
+END
+
+CONTROLBAR:Screech
+"S&creech"
+END
+
+CONTROLBAR:BladeMaster
+"Blade Maste&r"
+END
+
+CONTROLBAR:LightTorch
+"Light &Torch"
+END
+
+CONTROLBAR:ExtinguishTorch
+"Extinguish &Torch"
+END
+
+CONTROLBAR:WargRiderHowl
+"Ho&wl"
+END
+
+CONTROLBAR:ToggleGateOpenClose
+"&Toggle Gate"
+END
+
+CONTROLBAR:Athelas
+"A&thelas"
+END
+
+CONTROLBAR:Oathbreakers
+"Oathbrea&kers"
+END
+
+CONTROLBAR:HawkStrike
+"Hawk St&rike"
+END
+
+CONTROLBAR:ArrowWind
+"Arro&w Wind"
+END
+
+CONTROLBAR:TrainArchers
+"Train Ar&chers"
+END
+
+CONTROLBAR:KingsFavor
+"King's Favo&r"
+END
+
+CONTROLBAR:GloriousCharge
+"Glorious &Charge"
+END
+
+CONTROLBAR:TheodenMount
+"&Mount / Dismount"
+END
+
+CONTROLBAR:EowynMount
+"&Mount / Dismount"
+END
+
+CONTROLBAR:Leap
+"&Leap Attack"
+END
+
+CONTROLBAR:AxeThrow
+"Axe &Throw"
+END
+
+CONTROLBAR:Slayer
+"Slaye&r"
+END
+
+CONTROLBAR:ToggleFaramirWeapons
+"&Toggle Weapon"
+END
+
+CONTROLBAR:ToggleDamrodWeapons
+"&Toggle Weapon"
+END
+
+CONTROLBAR:ToggleLurtzWeapon
+"&Toggle Weapon"
+END
+
+CONTROLBAR:SpecialAbilityLurtzCripple
+"&Cripple"
+END
+
+CONTROLBAR:SpecialAbilityLurtzCarnage
+"Ca&rnage"
+END
+
+CONTROLBAR:ToggleFormation
+"Change For&mation"
+END
+
+CONTROLBAR:ToggleSkirmishFormation
+"Skir&mish Formation"
+END
+
+CONTROLBAR:ToggleHaradrimLineFormation
+"Line For&mation"
+END
+
+CONTROLBAR:ToolTipToggleHaradrimLineFormation
+"Haradrim Line For&mation"
+END
+
+CONTROLBAR:ToggleAmbushFormation
+"Ambush For&mation"
+END
+
+CONTROLBAR:ToggleWedgeFormation
+"Wedge For&mation"
+END
+
+CONTROLBAR:ToggleLineFormation
+"Line For&mation"
+END
+
+CONTROLBAR:ToolTipToggleLineFormation
+"Default Line For&mation"
+END
+
+CONTROLBAR:TogglePorcupineFormation
+"Porcupine For&mation"
+END
+
+CONTROLBAR:ToggleBlockFormation
+"Shield Wall For&mation"
+END
+
+CONTROLBAR:ToggleElvenWarriorWeapons
+"Al&ternate Weapon"
+END
+
+CONTROLBAR:ToggleRohirrimWeapons
+"Al&ternate Weapon"
+END
+
+CONTROLBAR:ToggleGondorRangerWeapons
+"Alterna&te Weapon"
+END
+
+CONTROLBAR:PorterGiveUpgrade
+"Give &Upgrade"
+END
+
+CONTROLBAR:BannerGoCombine
+"&Combine"
+END
+
+CONTROLBAR:WizardBlast
+"&Wizard Blast"
+END
+
+CONTROLBAR:WordofPower
+"Wo&rd of Power"
+END
+
+CONTROLBAR:Mount
+"&Mount / Dismount"
+END
+
+CONTROLBAR:UseSword
+"Use Swo&rd"
+END
+
+CONTROLBAR:UseStick
+"Use S&tick"
+END
+
+CONTROLBAR:PhialofGaladriel
+"&Phial of Galadriel"
+END
+
+CONTROLBAR:ElvenCloak
+"Elven &Cloak"
+END
+
+CONTROLBAR:EomerMount
+"&Mount / Dismount"
+END
+
+CONTROLBAR:IstariLight
+"&Istari Light"
+END
+
+CONTROLBAR:LightningSword
+"Ligh&tning Sword"
+END
+
+CONTROLBAR:ThrowSpear
+"Spear Thro&w"
+END
+
+CONTROLBAR:HornofGondor
+"Ho&rn of Gondor"
+END
+
+CONTROLBAR:WoundingArrow
+"&Wounding Arrow"
+END
+
+CONTROLBAR:CaptainofGondor
+"&Captain of Gondor"
+END
+
+CONTROLBAR:FaramirKnightRanger
+"Knight/&Ranger Toggle"
+END
+
+CONTROLBAR:DamrodKnightRanger
+"Knight/&Ranger Toggle"
+END
+
+CONTROLBAR:ToggleShieldWallFormation
+"Shield Wall For&mation"
+END
+
+CONTROLBAR:ToggleLooseFormation
+"Loose For&mation"
+END
+
+CONTROLBAR:SpeechCraft
+"Spee&ch Craft"
+END
+
+CONTROLBAR:Disguise
+"D&isguise"
+END
+
+CONTROLBAR:Smite
+"Smi&te"
+END
+
+CONTROLBAR:ShieldMaiden
+"Shie&ld Maiden"
+END
+
+CONTROLBAR:ToggleTrebWeapon
+"Bomba&rd"
+END
+
+CONTROLBAR:NoAutoAcquire
+"Halt Auto Acqu&ire"
+END
+
+CONTROLBAR:AutoAcquire
+"Auto Acqu&ire"
+END
+
+CONTROLBAR:ConstructRohanPeasant
+"Rohan &Peasants"
+END
+
+CONTROLBAR:TransportEvacuate
+"E&vacuate"
+END
+
+CONTROLBAR:RepairStructure
+"Repair S&tructure"
+END
+
+CONTROLBAR:DeployMine
+"&Deploy Mine"
+END
+
+CONTROLBAR:ArwenMount
+"&Mount / Dismount"
+END
+
+CONTROLBAR:GlorfindelMount
+"&Mount / Dismount"
+END
+
+CONTROLBAR:PurchaseTechnologyRohanFireArrows
+"Research Fire Arro&ws Upgrade"
+END
+
+CONTROLBAR:PurchaseTechnologyRohanForgedBlades
+"&Forged Blade Upgrade"
+END
+
+CONTROLBAR:PurchaseUpgradeRohanForgedBlades
+"Forged B&lades"
+END
+
+CONTROLBAR:PurchaseTechnologyRohanHeavyArmor
+"Hea&vy Armor"
+END
+
+CONTROLBAR:PurchaseUpgradeRohanHeavyArmor
+"Hea&vy Armor"
+END
+
+CONTROLBAR:PurchaseUpgradeRohanBasicTraining
+"Ba&nner Carrier Upgrade"
+END
+
+CONTROLBAR:GoHarvest
+"Harvest &Resources"
+END
+
+CONTROLBAR:SelectUpgradesMenFortress
+"Fortress &Upgrades"
+END
+
+CONTROLBAR:SelectRevivablesMenFortress
+"He&roes"
+END
+
+CONTROLBAR:ConstructMenTrebuchetExpansion
+"&Trebuchet Expansion"
+END
+
+CONTROLBAR:ConstructMenArrowTowerExpansion
+"A&rrow Tower Expansion"
+END
+
+CONTROLBAR:ConstructMenDormitory
+"&Dormitory Expansion"
+END
+
+CONTROLBAR:Command_ConstructMenWallHubExpansion
+"&Wall Hub Expansion"
+END
+
+CONTROLBAR:PurchaseUpgradeMenFortressNumenorStonework
+"Numenor S&tonework"
+END
+
+CONTROLBAR:PurchaseUpgradeMenFortressFlamingMunitions
+"&Flaming Munitions"
+END
+
+CONTROLBAR:PurchaseUpgradeMenFortressBanners
+"Ba&nners"
+END
+
+CONTROLBAR:PurchaseUpgradeMenFortressHouseOfHealing
+"House of Healin&g"
+END
+
+CONTROLBAR:PurchaseUpgradeMenFortressIvoryTower
+"I&vory Tower"
+END
+
+CONTROLBAR:PurchaseUpgradeMenFortressBoilingOil
+"Bo&iling Oil"
+END
+
+CONTROLBAR:Command_MenWallUpgradeToHub
+"&Wall Hub"
+END
+
+CONTROLBAR:Command_MenWallUpgradeToRegularGate
+"&Gate"
+END
+
+CONTROLBAR:Command_MenWallUpgradeToPosternGate
+"&Postern Gate"
+END
+
+CONTROLBAR:Command_MenWallUpgradeToTower
+"A&rrow Tower"
+END
+
+CONTROLBAR:Command_MenWallUpgradeToTrebuchet
+"&Trebuchet"
+END
+
+CONTROLBAR:ConstructDwarvenFortress
+"Build &Fortress"
+END
+
+CONTROLBAR:ConstructDwarvenSentryTower
+"Build Batt&le Tower"
+END
+
+CONTROLBAR:ConstructDwarvenBarracks
+"Build Hall of Wa&rriors"
+END
+
+CONTROLBAR:ConstructDwarvenHearth
+"Build He&arth"
+END
+
+CONTROLBAR:ConstructDwarvenForgeWorks
+"Build For&ge Works"
+END
+
+CONTROLBAR:ConstructDwarvenMineShaft
+"Build Mine Shaf&t"
+END
+
+CONTROLBAR:ConstructDwarvenStatue
+"Build Hero&ic Statue"
+END
+
+CONTROLBAR:ConstructDwarvenArcheryRange
+"Build Archer&y Range"
+END
+
+CONTROLBAR:ConstructDwarvenWallHub
+"Build &Wall Hub"
+END
+
+CONTROLBAR:SelectUpgradesDwarvenFortress
+"Fortress &Upgrades"
+END
+
+CONTROLBAR:SelectRevivablesDwarvenFortress
+"He&roes"
+END
+
+CONTROLBAR:ConstructDwarvenCatapultExpansion
+"&Catapult Expansion"
+END
+
+CONTROLBAR:ConstructDwarvenEreborTowerTowerExpansion
+"A&xe Tower Expansion"
+END
+
+CONTROLBAR:Command_ConstructDwarvenWallHubExpansion
+"&Wall Hub Expansion"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenFortressDwarvenStonework
+"Dwarven S&tonework"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenFortressFlamingMunitions
+"&Masterwork Munitions"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenFortressBanners
+"Ba&nners"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenFortressSiegeKegs
+"Siege &Kegs"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenFortressMightyCatapult
+"Mighty &Catapult"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenFortressOilCasks
+"O&il Casks"
+END
+
+CONTROLBAR:FireWeaponDwarvenFortressOilCasks
+"Use O&il Casks"
+END
+
+CONTROLBAR:ConstructDwarvenPorter
+"Recruit Bui&lder"
+END
+
+CONTROLBAR:Command_DwarvenWallUpgradeToHub
+"&Wall Hub"
+END
+
+CONTROLBAR:Command_DwarvenWallUpgradeToRegularGate
+"&Gate"
+END
+
+CONTROLBAR:Command_DwarvenWallUpgradeToPosternGate
+"&Postern Gate"
+END
+
+CONTROLBAR:Command_DwarvenWallUpgradeToTower
+"A&xe Tower"
+END
+
+CONTROLBAR:Command_DwarvenWallUpgradeToCatapult
+"&Catapult"
+END
+
+CONTROLBAR:GloinHotkey
+"G&loin"
+END
+
+CONTROLBAR:ConstructDwarvenGuardianHorde
+"&Guardians"
+END
+
+CONTROLBAR:ConstructDwarvenPhalanxHorde
+"&Phalanxes"
+END
+
+CONTROLBAR:ConstructDwarvenAxeThrowerHorde
+"A&xe Throwers"
+END
+
+CONTROLBAR:ConstructDwarvenDemolisher
+"Demolishe&r"
+END
+
+CONTROLBAR:ConstructDwarvenBattleWagon
+"Battle&wagon"
+END
+
+CONTROLBAR:ConstructDwarvenCatapult
+"&Catapult"
+END
+
+CONTROLBAR:UpgradeDwarvenBarracksLevel2
+"&Upgrade Hall of Warriors to Level 2"
+END
+
+CONTROLBAR:UpgradeDwarvenBarracksLevel3
+"&Upgrade Hall of Warriors to Level 3"
+END
+
+CONTROLBAR:ConstructDwarvenMenOfDale
+"Men of Da&le"
+END
+
+CONTROLBAR:ConstructDwarvenArcheryRangeLevel2Upgrade
+"&Upgrade Archery Range to Level 2"
+END
+
+CONTROLBAR:ConstructDwarvenArcheryRangeLevel3Upgrade
+"&Upgrade Archery Range to Level 3"
+END
+
+CONTROLBAR:UpgradeDwarvenForgeWorksLevel2
+"&Upgrade Forge Works to Level 2"
+END
+
+CONTROLBAR:UpgradeDwarvenForgeWorksLevel3
+"&Upgrade Forge Works to Level 3"
+END
+
+CONTROLBAR:ConstructWildSpiderHolesExpansion
+"S&pider Holes Expansion"
+END
+
+CONTROLBAR:ConstructWildArrowDenExpansion
+"Arrow &Den Expansion"
+END
+
+CONTROLBAR:ConstructWildGiantSentryExpansion
+"&Giant Sentry Expansion"
+END
+
+CONTROLBAR:SelectUpgradesWildFortress
+"Fortress &Upgrades"
+END
+
+CONTROLBAR:SelectRevivablesGoblinFortress
+"He&roes"
+END
+
+CONTROLBAR:WildGoblinKingHotkey
+"&Goblin King"
+END
+
+CONTROLBAR:WildDrogothHotkey
+"&Drogoth the Dragon Lord"
+END
+
+CONTROLBAR:PurchaseWildFireDrake
+"&Fire Drake"
+END
+
+CONTROLBAR:PurchaseUpgradeWildFortressDragonNest
+"&Dragon's Nest"
+END
+
+CONTROLBAR:PurchaseUpgradePirateFlag
+"&Pirate Flags"
+END
+
+CONTROLBAR:ConstructWildSentryTower
+"Build Sentr&y Tower"
+END
+
+CONTROLBAR:PurchaseUpgradeCirdansCraftwork
+"&Cirdan's Craftwork"
+END
+
+CONTROLBAR:ConstructElvenFortress
+"Build &Fortress"
+END
+
+CONTROLBAR:ConstructElvenWatchtowerExpansion
+"Watchtowe&r Expansion"
+END
+
+CONTROLBAR:ConstructElvenVigilantEntExpansion
+"&Vigilant Ent Expansion"
+END
+
+CONTROLBAR:ConstructElvenFloodgateExpansion
+"&Flood Gate Expansion"
+END
+
+CONTROLBAR:SelectRevivablesElvenFortress
+"He&roes"
+END
+
+CONTROLBAR:SelectUpgradesElvenFortress
+"Fortress &Upgrades"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenFortressEaglesNest
+"Ea&gle's Nest"
+END
+
+CONTROLBAR:PurchaseElvenEagle
+"&Giant Eagle"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenFortressEncasingVines
+"Encasing &Vines"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenFortressMysticFountains
+"&Mystic Fountains"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenFortressEnchantedAnvil
+"E&nchanted Anvil"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenFortressBlessedMist
+"Blessed Mis&t"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenFortressCrystalMoat
+"Cr&ystal Moat"
+END
+
+CONTROLBAR:ConstructEregionForge
+"Build Ere&gion Forge"
+END
+
+CONTROLBAR:PurchaseUpgradeEregionForgeLevel2
+"&Upgrade Eregion Forge to Level 2"
+END
+
+CONTROLBAR:PurchaseUpgradeEregionForgeLevel3
+"&Upgrade Eregion Forge to Level 3"
+END
+
+CONTROLBAR:ConstructElvenBarracks
+"Build Elven Barra&cks"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenBarracksLevel2
+"&Upgrade Elven Barracks to Level 2"
+END
+
+CONTROLBAR:ConstructElvenStable
+"Build Green P&asture"
+END
+
+CONTROLBAR:ConstructElvenGreenPastureLevel2Upgrade
+"&Upgrade Green Pasture to Level 2"
+END
+
+CONTROLBAR:ConstructElvenGreenPastureLevel3Upgrade
+"&Upgrade Green Pasture to Level 3"
+END
+
+CONTROLBAR:ConstructElvenStatue
+"Build Hero&ic Statue"
+END
+
+CONTROLBAR:ConstructElvenBattleTower
+"Build Batt&le Tower"
+END
+
+CONTROLBAR:ConstructElvenMallornTree
+"Build Mallo&rn Tree"
+END
+
+CONTROLBAR:ConstructGaladrielsWell
+"Build Mirror of Gala&driel"
+END
+
+CONTROLBAR:Command_ConstructElvenWallHubExpansion
+"Build &Wall Hub"
+END
+
+CONTROLBAR:Command_ConstructElvenWallHubExpansionCastle
+"&Wall Hub Expansion"
+END
+
+CONTROLBAR:Command_ElvenWallUpgradeToHub
+"Upgrade to &Wall Hub"
+END
+
+CONTROLBAR:Command_ElvenWallUpgradeToRegularGate
+"Up&grade to Gate"
+END
+
+CONTROLBAR:ConstructElvenLindonWarriorHorde
+"Train Lindon &Warriors"
+END
+
+CONTROLBAR:ConstructElvenImladrisWarriorHorde
+"Train Imladris &Warriors"
+END
+
+CONTROLBAR:ConstructElvenPorter
+"Bui&lder"
+END
+
+CONTROLBAR:PurchaseUpgradeWildFortressBatCloud
+"Bat &Cloud"
+END
+
+CONTROLBAR:PurchaseUpgradeWildFortressFireArrows
+"&Fire Arrows"
+END
+
+CONTROLBAR:PurchaseUpgradeWildFortressWebCocoon
+"&Web Cocoon"
+END
+
+CONTROLBAR:PurchaseUpgradeWildFortressRazorSpines
+"&Razor Spines"
+END
+
+CONTROLBAR:PurchaseUpgradeSentryTowerFireArrows
+"Fire Arro&ws"
+END
+
+CONTROLBAR:ConstructWildBurrowsExpansion
+"Bu&rrows Expansion"
+END
+
+CONTROLBAR:WizardsTowerLightningStrike
+"Lightning Stri&ke"
+END
+
+CONTROLBAR:ConstructIsengardTowerExpansion
+"A&rrow Tower Expansion"
+END
+
+CONTROLBAR:ConstructIsengardBallistaExpansion
+"Ba&llista Expansion"
+END
+
+CONTROLBAR:ConstructIsengardMineLauncherExpansion
+"&Mine Launcher Expansion"
+END
+
+CONTROLBAR:ConstructIsengardWallHubExpansion
+"&Wall Hub Expansion"
+END
+
+CONTROLBAR:PurchaseUpgradeIsengardFortressOrcfireMunitions
+"Orc&fire Munitions"
+END
+
+CONTROLBAR:PurchaseUpgradeIsengardFortressIronPlating
+"&Iron Plating"
+END
+
+CONTROLBAR:PurchaseUpgradeIsengardFortressBurningForges
+"Bur&ning Forges"
+END
+
+CONTROLBAR:PurchaseUpgradeIsengardFortressExcavations
+"E&xcavations"
+END
+
+CONTROLBAR:PurchaseUpgradeIsengardFortressMurderOfCrows
+"Murder of &Crows"
+END
+
+CONTROLBAR:SpecialAbilityMurderOfCrows
+"Murder of &Crows"
+END
+
+CONTROLBAR:PurchaseUpgradeIsengardFortressWizardsTower
+"&Wizard's Tower"
+END
+
+CONTROLBAR:Command_IsengardWallUpgradeToHub
+"Upgrade to &Wall Hub"
+END
+
+CONTROLBAR:Command_IsengardWallUpgradeToRegularGate
+"Up&grade to gate"
+END
+
+CONTROLBAR:Command_ConstructIsengardCastleWallHub
+"&Wall Hub"
+END
+
+CONTROLBAR:SelectUpgradesIsengardFortress
+"&Upgrade Fortress"
+END
+
+CONTROLBAR:SelectRevivablesIsengardFortress
+"He&roes"
+END
+
+CONTROLBAR:SelectUpgradesMordorFortress
+"&Upgrade Fortress"
+END
+
+CONTROLBAR:SelectRevivablesMordorFortress
+"He&roes"
+END
+
+CONTROLBAR:ConstructMordorWallCatapultExpansion
+"&Catapult Expansion"
+END
+
+CONTROLBAR:ConstructMordorBarricadeExpansion
+"Ba&rricade Expansion"
+END
+
+CONTROLBAR:ConstructMordorGateWatchersExpansion
+"Gate &Watchers Expansion"
+END
+
+CONTROLBAR:PurchaseUpgradeMordorFortressFireArrows
+"&Flaming Munitions"
+END
+
+CONTROLBAR:PurchaseUpgradeMordorFortressMorgulSorcery
+"Morgul Sor&cery"
+END
+
+CONTROLBAR:PurchaseUpgradeMordorFortressDoomPyres
+"&Doom Pyres"
+END
+
+CONTROLBAR:PurchaseUpgradeMordorFortressMagmaCauldrons
+"&Magma Cauldrons"
+END
+
+CONTROLBAR:PurchaseUpgradeMordorFortressLavaMoat
+"La&va Moat"
+END
+
+CONTROLBAR:PurchaseUpgradeMordorFortressGorgorothSpire
+"&Gorgoroth Spire"
+END
+
+CONTROLBAR:FireWeaponMordorFortressMagmaCauldrons
+"&Magma Cauldrons"
+END
+
+CONTROLBAR:FireWeaponMordorFortressSpireFireball
+"Gorgoroth Spire &Fireball"
+END
+
+CONTROLBAR:ConstructMordorFortress
+"Build &Fortress"
+END
+
+CONTROLBAR:ConstructIsengardLumberMill
+"L&umber Mill"
+END
+
+CONTROLBAR:ConstructIsengardWargSentry
+"Build Warg Sentr&y"
+END
+
+CONTROLBAR:ConstructIsengardFortress
+"Build &Fortress"
+END
+
+CONTROLBAR:ConstructMordorTavern
+"Build Ta&vern"
+END
+
+CONTROLBAR:ConstructMordorLumberMill
+"B&uild Lumber Mill"
+END
+
+CONTROLBAR:ConstructMordorCorsairsOfUmbarHorde
+"&Corsairs of Umbar"
+END
+
+CONTROLBAR:ConstructDwarvenHallExpansion
+"Ha&ll Expansion"
+END
+
+CONTROLBAR:SonicSong
+"Soni&c Song"
+END
+
+CONTROLBAR:MouthOfSauronDoubt
+"Doub&t"
+END
+
+CONTROLBAR:MouthOfSauronDissent
+"D&issent"
+END
+
+CONTROLBAR:SpecialAbilityMouthOfSauronEvilEye
+"Evil E&ye"
+END
+
+CONTROLBAR:BlackRiderMorgulBlade
+"Morgu&l Blade"
+END
+
+CONTROLBAR:Escape
+"Es&cape"
+END
+
+CONTROLBAR:VenomousWords
+"&Venomous Words"
+END
+
+CONTROLBAR:Backstab
+"Back S&tab"
+END
+
+CONTROLBAR:CorrodeAllegiance
+"Co&rrode Allegiance"
+END
+
+CONTROLBAR:TameTheBeast
+"&Tame the Beast"
+END
+
+CONTROLBAR:SharkuManEater
+"Man Eate&r"
+END
+
+CONTROLBAR:ElrondFarsight
+"Fars&ight"
+END
+
+CONTROLBAR:ElrondRestoration
+"&Restoration"
+END
+
+CONTROLBAR:PersonalFlood
+"F&lood"
+END
+
+CONTROLBAR:HaldirGoldenArrow
+"Golden Arro&w"
+END
+
+CONTROLBAR:GlorfindelBladeOfPurity
+"Blade of Puri&ty"
+END
+
+CONTROLBAR:GlorfindelWindRider
+"&Wind Rider"
+END
+
+CONTROLBAR:GlorfindelStarlight
+"Sta&rlight"
+END
+
+CONTROLBAR:DeadEye
+"Dead E&ye"
+END
+
+CONTROLBAR:MoveUnseen
+"Move &Unseen"
+END
+
+CONTROLBAR:ThornofVengeance
+"Thorn of &Vengeance"
+END
+
+CONTROLBAR:SummonRoyalGuard
+"Summon Ro&yal Guard"
+END
+
+CONTROLBAR:MightyRage
+"Mighty &Rage"
+END
+
+CONTROLBAR:GloinSlam
+"Sla&m"
+END
+
+CONTROLBAR:GloinShakeFoundation
+"Shake Founda&tion"
+END
+
+CONTROLBAR:GloinSmash
+"Shatter Hamme&r"
+END
+
+CONTROLBAR:GoblinKingPoisonedStinger
+"Poisoned Stinge&r"
+END
+
+CONTROLBAR:GoblinKingSpawnFireDrakes
+"&Call From the Deep"
+END
+
+CONTROLBAR:GoblinKingSkullTotem
+"Skull &Totem"
+END
+
+CONTROLBAR:WildShelobInstillTerror
+"&Instill Terror"
+END
+
+CONTROLBAR:SpecialAbilityWildShelobTunnel
+"&Tunnel"
+END
+
+CONTROLBAR:SpecialAbilityFireDrakeInferno
+"Infe&rno"
+END
+
+CONTROLBAR:SpecialAbilityFiresOfDoom
+"Fi&res of Doom"
+END
+
+CONTROLBAR:TerribleFury
+"&Terrible Fury"
+END
+
+CONTROLBAR:SpecialAbilityDrogothFireball
+"Fi&reball"
+END
+
+CONTROLBAR:SpecialAbilityWingBlast
+"&Wing Blast"
+END
+
+CONTROLBAR:SpecialAbilityIncinerate
+"In&cinerate"
+END
+
+CONTROLBAR:SpecialAbilityDrogothFireflight
+"Fire Fligh&t"
+END
+
+CONTROLBAR:HourOfTheWitchKing
+"Hour of the &Witch-king"
+END
+
+CONTROLBAR:ThunderBolt
+"&Thunderbolt"
+END
+
+CONTROLBAR:GaladrielTornado
+"Nature's &Wrath"
+END
+
+CONTROLBAR:ElrondWhirlwind
+"&Whirlwind"
+End
+
+CONTROLBAR:ElvenGrace
+"A&thelas"
+END
+
+CONTROLBAR:BarbedArrows
+"Barbed Arrow Sho&t"
+End
+
+CONTROLBAR:BlackArrows
+"Blac&k Arrows"
+End
+
+CONTROLBAR:BlackRiderMount
+"&Mount \n Dismount"
+End
+
+CONTROLBAR:CitadelCatapultUpgrade
+"Untamed Allegian&ce"
+End
+
+CONTROLBAR:ConstructElvenWallHub
+"Build &Wall Hub"
+End
+
+CONTROLBAR:ConstructEvilBombardShip
+"Co&rsair Bombardment Ship"
+End
+
+CONTROLBAR:ConstructEvilFireShip
+"Mordor &Doom Ship"
+End
+
+CONTROLBAR:ConstructEvilShip
+"&Corsair Black Ship"
+End
+
+CONTROLBAR:ConstructEvilTransportShip
+"Umbar &Transport"
+End
+
+CONTROLBAR:ConstructGondorForgeLevel2Upgrade
+"&Upgrade Blacksmith to Level 2"
+End
+
+CONTROLBAR:ConstructGondorForgeLevel3Upgrade
+"&Upgrade Blacksmith to Level 3"
+End
+
+CONTROLBAR:ConstructGoodBombardShip
+"Elven Bomba&rdment Ship"
+End
+
+CONTROLBAR:ConstructGoodFireShip
+"Elven &Storm Ship"
+End
+
+CONTROLBAR:ConstructGoodShip
+"Elven &Warship"
+End
+
+CONTROLBAR:ConstructGoodTransportShip
+"Elven &Transport"
+End
+
+CONTROLBAR:ConstructIsengardArmoryLevel2
+"&Upgrade Armory to Level 2"
+End
+
+CONTROLBAR:ConstructIsengardArmoryLevel3
+"&Upgrade Armory to Level 3"
+End
+
+CONTROLBAR:ConstructMordorAttackTroll
+"A&ttack Troll"
+End
+
+CONTROLBAR:ConstructMordorBattleTower
+"Build Batt&le Tower"
+End
+
+CONTROLBAR:ConstructMordorHaradrimArcherHorde
+"H&aradrim Archers"
+End
+
+CONTROLBAR:DominateTroll
+"Dominate &Troll"
+End
+
+CONTROLBAR:FireWeaponMenFortressBoilingOil
+"Release Bo&iling Oil"
+End
+
+CONTROLBAR:GoblinKingBattleFrenzy
+"Battle Frenz&y"
+End
+
+CONTROLBAR:GoblinKingMount
+"&Mount / Dismount"
+End
+
+CONTROLBAR:GondorCastleWallHub
+"Build &Wall Hub"
+End
+
+CONTROLBAR:IsengardWargSentryUnleash
+"Un&leash Warg"
+End
+
+CONTROLBAR:IvoryTowerVision
+"Use I&vory Tower"
+End
+
+CONTROLBAR:MenLongShotAbility
+"Longsho&t"
+End
+
+CONTROLBAR:PoisonArrows
+"&Poison Arrows"
+End
+
+CONTROLBAR:PurchaseIsengardWargSentry
+"Build &Warg Sentries"
+End
+
+CONTROLBAR:Roar
+"&Roar"
+End
+
+CONTROLBAR:SpecialAbilityBatCloud
+"Bat &Cloud"
+End
+
+CONTROLBAR:SpecialAbilityDwarvenDemolisherDeploy
+"Deplo&y"
+End
+
+CONTROLBAR:SpecialAbilityGoblinFighterPoisonedBlades
+"&Poisoned Blades"
+End
+
+CONTROLBAR:SpecialAbilitySummonedDragonReposition
+"&Reposition"
+End
+
+CONTROLBAR:ThrowFireBombs
+"Firebo&mbs"
+End
+
+CONTROLBAR:UpgradeIsengardSiegeWorksLevel2
+"&Upgrade the Siege Works to Level 2"
+End
+
+CONTROLBAR:UpgradeIsengardSiegeWorksLevel3
+"&Upgrade the Siege Works to Level 3"
+End
+
+CONTROLBAR:UpgradeIsengardUrukPitLevel2
+"&Upgrade Uruk Pit to Level 2"
+End
+
+CONTROLBAR:UpgradeIsengardUrukPitLevel3
+"&Upgrade Uruk Pit to Level 3"
+End
+
+CONTROLBAR:UpgradeIsengardWargPitLevel2
+"&Upgrade Warg Pit to Level 2"
+End
+
+CONTROLBAR:UpgradeIsengardWargPitLevel3
+"&Upgrade Warg Pit to Level 3"
+End
+
+CONTROLBAR:UpgradeMordorHaradrimPalaceLevel2
+"&Upgrade Haradrim Palace to Level 2"
+End
+
+CONTROLBAR:UpgradeMordorHaradrimPalaceLevel3
+"&Upgrade Haradrim Palace to Level 3"
+End
+
+CONTROLBAR:UpgradeMordorOrcPitLevel2
+"&Upgrade Orc Pit to Level 2"
+End
+
+CONTROLBAR:UpgradeMordorOrcPitLevel3
+"&Upgrade Orc Pit to Level 3"
+End
+
+CONTROLBAR:UpgradeMordorSiegeWorksLevel2
+"&Upgrade Siege Works to Level 2"
+End
+
+CONTROLBAR:UpgradeMordorSiegeWorksLevel3
+"&Upgrade Siege Works to Level 3"
+End
+
+CONTROLBAR:UpgradeMordorTavernLevel2
+"&Upgrade Tavern to Level 2"
+End
+
+CONTROLBAR:UpgradeMordorTavernLevel3
+"&Upgrade Tavern to Level 3"
+End
+
+CONTROLBAR:UpgradeMordorTrollCageLevel2
+"&Upgrade Troll Cage to Level 2"
+End
+
+CONTROLBAR:UpgradeMordorTrollCageLevel3
+"&Upgrade Troll Cage to Level 3"
+End
+
+CONTROLBAR:WildMountainGiantStomp
+"S&tomp"
+End
+
+CONTROLBAR:WildShelobPoisonedStinger
+"Poisoned Stinge&r"
+End
+
+CONTROLBAR:WitchKingDismount
+"Dis&mount Fellbeast"
+End
+
+CONTROLBAR:ConstructGondorRangerSummonedHorde
+"T&rain Dunedain Rangers"
+END
+
+CONTROLBAR:Trollfindgoblintothrow
+"&Pick up Goblin"
+END
+
+CONTROLBAR:StopBombard
+"&Stop Bombarding"
+END
+
+CONTROLBAR:ArcherBarrage
+"Bomba&rd"
+END
+
+CONTROLBAR:ElvenArwenHotkey
+"&Arwen"
+END
+
+CONTROLBAR:ElvenHaldirHotkey
+"Hald&ir"
+END
+
+CONTROLBAR:ElvenElrondHotkey
+"&Elrond"
+END
+
+CONTROLBAR:ElvenFrodoHotkey
+"Fro&do"
+END
+
+CONTROLBAR:IsengardWormtongueHotkey
+"&Wormtongue"
+END
+
+CONTROLBAR:IsengardSharkuHotkey
+"Shar&ku"
+END
+
+CONTROLBAR:ShelobHotkey
+"&Shelob"
+END
+
+CONTROLBAR:BlackRiderHotkey
+"&Nazgul"
+END
+
+CONTROLBAR:GaladrielHotkey
+"Galad&riel"
+END
+
+CONTROLBAR:SauronHotkey
+"Sau&ron"
+END
+
+CONTROLBAR:DwarvenCatapultUpgrade
+"&Replace Catapult"
+END
+
+CONTROLBAR:IsengardBallistaUpgrade
+"&Replace Ballista"
+END
+
+CONTROLBAR:MordorCatapultUpgrade
+"&Replace Catapult"
+END
+
+CONTROLBAR:TrebuchetUpgrade
+"&Replace Trebuchet"
+END
+
+CONTROLBAR:PurchaseTechnologyDwarvenBasicTraining
+"Research Ba&nner Carriers"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenBasicTraining
+"Purchase Ba&nner Carrier"
+END
+
+CONTROLBAR:PurchaseTechnologyDwarvenForgedBlades
+"Research Forged B&lades"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenForgedBlades
+"Purchase Forged B&lades"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenHeavyArmor
+"Purchase Hea&vy Armor"
+END
+
+CONTROLBAR:PurchaseTechnologyGondorFireArrows
+"Research Fire Arro&ws"
+END
+
+CONTROLBAR:PurchaseTechnologyGondorForgedBlades
+"Research Forged B&lades"
+END
+
+CONTROLBAR:PurchaseUpgradeGondorForgedBlades
+"Purchase Forged B&lades"
+END
+
+CONTROLBAR:PurchaseUpgradeRohanElvenWarriorForgedBlades
+"Purchase Forged B&lades"
+END
+
+CONTROLBAR:PurchaseTechnologyGondorHeavyArmor
+"Research Hea&vy Armor"
+END
+
+CONTROLBAR:PurchaseUpgradeGondorHeavyArmor
+"Purchase Hea&vy Armor"
+END
+
+CONTROLBAR:PurchaseTechnologyGondorKnightShield
+"Research Horse Sh&ields"
+END
+
+CONTROLBAR:PurchaseUpgradeGondorKnightShield
+"Purchase Horseman Sh&ields"
+END
+
+CONTROLBAR:PurchaseTechnologyGondorFireStones
+"Research Fire S&tones"
+END
+
+CONTROLBAR:PurchaseUpgradeGondorFireStones
+"Purchase Fire S&tones"
+END
+
+CONTROLBAR:PurchaseTechnologyRohanHorseShield
+"Research Horseman Sh&ields"
+END
+
+CONTROLBAR:PurchaseUpgradeRohanHorseShield
+"Purchase Horsemen Sh&ields"
+END
+
+CONTROLBAR:PurchaseTechnologyIsengardFireArrows
+"Research Fire Arro&ws"
+END
+
+CONTROLBAR:PurchaseTechnologyIsengardForgedBlades
+"Research Forged B&lades"
+END
+
+CONTROLBAR:PurchaseUpgradeIsengardForgedBlades
+"Purchase Forged B&lades"
+END
+
+CONTROLBAR:PurchaseTechnologyIsengardHeavyArmor
+"Research Hea&vy Armor"
+END
+
+CONTROLBAR:PurchaseUpgradeIsengardHeavyArmor
+"Purchase Hea&vy Armor"
+END
+
+CONTROLBAR:PurchaseTechnologyMordorFireArrows
+"Research Fire Arro&ws"
+END
+
+CONTROLBAR:PurchaseTechnologyGondorBasicTraining
+"Research Ba&nner Carriers"
+END
+
+CONTROLBAR:PurchaseUpgradeGondorBasicTraining
+"Purchase Ba&nner Carrier"
+END
+
+CONTROLBAR:PurchaseTechnologyIsengardBasicTraining
+"Research Ba&nner Carriers"
+END
+
+CONTROLBAR:PurchaseUpgradeIsengardBasicTraining
+"Purchase Ba&nner Carrier"
+END
+
+CONTROLBAR:PurchaseTechnologyMordorBasicTraining
+"Research Ba&nner Carriers"
+END
+
+CONTROLBAR:PurchaseUpgradeMordorBasicTraining
+"Purchase Ba&nner Carrier"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenMithrilMail
+"Purchase Dwar&ven Mithril Mail"
+END
+
+CONTROLBAR:PurchaseTechnologyDwarvenMithrilMail
+"Research Dwar&ven Mithril Mail"
+END
+
+CONTROLBAR:PurchaseUpgradeWildBasicTraining
+"Purchase Ba&nner Carrier"
+END
+
+CONTROLBAR:PurchaseTechnologyWildBasicTraining
+"Research Ba&nner Carriers"
+END
+
+CONTROLBAR:PurchaseUpgradeWildFireArrows
+"Purchase Fire Arro&ws"
+END
+
+CONTROLBAR:PurchaseTechnologyWildFireArrows
+"Research Fire Arro&ws"
+END
+
+CONTROLBAR:PurchaseUpgradeWildForgedBlade
+"Purchase Forged B&lades"
+END
+
+CONTROLBAR:PurchaseTechnologyWildForgedBlades
+"Research Forged B&lades"
+END
+
+CONTROLBAR:PurchaseUpgradeWildHeavyArmor
+"Purchase Sca&venged Armor"
+END
+
+CONTROLBAR:PurchaseTechnologyWildHeavyArmor
+"Research Sca&venged Armor"
+END
+
+CONTROLBAR:PurchaseTechnologySpiderVenomSacks
+"Research &Venom Sacs"
+END
+
+CONTROLBAR:PurchaseSpiderVenomSacks
+"Purchase &Venom Sacs"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenBasicTraining
+"Purchase Ba&nner Carrier"
+END
+
+CONTROLBAR:PurchaseUpgradeElderRacesBasicTraining
+"Purchase Ba&nner Carrier"
+END
+
+CONTROLBAR:PurchaseTechnologyElvenBasicTraining
+"Research Ba&nner Carriers"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenSilverthornArrows
+"Purchase Silverthorn Arro&ws"
+END
+
+CONTROLBAR:PurchaseTechnologyElvenForgedBlades
+"Research Forged B&lades"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenForgedBlades
+"Purchase Forged B&lades"
+END
+
+CONTROLBAR:PurchaseTechnologyElvenHeavyArmor
+"Research El&ven Armor"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenHeavyArmor
+"Purchase El&ven Armor"
+END
+
+CONTROLBAR:PurchaseTechnologyElvenSilverthornArrows
+"Research Silverthorn Arro&ws"
+END
+
+CONTROLBAR:PurchaseTechnologyMordorForgedBlades
+"Research Forged B&lades"
+END
+
+CONTROLBAR:PurchaseTechnologyMordorHeavyArmor
+"Research Hea&vy Armor"
+END
+
+CONTROLBAR:HeavyArmorUpgrade
+"Purchase Hea&vy Armor"
+END
+
+CONTROLBAR:PurchaseTechnologyDwarvenFlamingShot
+"Research Flaming Sho&t"
+End
+
+CONTROLBAR:PurchaseTechnologyDwarvenSiegeHammer
+"Research S&iege Hammers"
+End
+
+CONTROLBAR:PurchaseTechnologyElderRacesMagicArrows
+"Research Silverthorn Arro&ws"
+End
+
+CONTROLBAR:PurchaseTechnologyIsengardTorches
+"Research &Torches"
+End
+
+CONTROLBAR:PurchaseUpgradeShipArmor
+"Upgrade Ar&mor"
+End
+
+CONTROLBAR:HotWSummonAllies_Level1
+"Ca&ll Reinforcements"
+END
+
+CONTROLBAR:HotWSummonAllies_Level2
+"Improved Ca&ll Reinforcements"
+END
+
+CONTROLBAR:HotWSummonAllies_Level3
+"Great Ca&ll Reinforcements"
+END
+
+CONTROLBAR:HotWSummonAllies_Level4
+"Superior Ca&ll Reinforcements"
+END
+
+CONTROLBAR:TrainAllies_Level_1
+"Trai&n Allies"
+END
+
+CONTROLBAR:TrainAllies_Level_2
+"Improved Trai&n Allies"
+END
+
+CONTROLBAR:TrainAllies_Level_3
+"Great Trai&n Allies"
+END
+
+CONTROLBAR:CAH_ThrowSpear_Level1
+"Spear Thro&w"
+END
+
+CONTROLBAR:CAH_ThrowSpear_Level2
+"Improved Spear Thro&w"
+END
+
+CONTROLBAR:CAH_ThrowSpear_Level3
+"Mighty Spear Thro&w"
+END
+
+CONTROLBAR:Invulnerability_Level1
+"In&vulnerability"
+END
+
+CONTROLBAR:Invulnerability_Level2
+"Improved In&vulnerability"
+END
+
+CONTROLBAR:Invulnerability_Level3
+"Great In&vulnerability"
+END
+
+CONTROLBAR:CAHAthelas
+"A&thelas"
+END
+
+CONTROLBAR:CAHBladeMaster
+"Blade Maste&r"
+END
+
+CONTROLBAR:CAHElendil
+"&Elendil"
+END
+
+CONTROLBAR:HeroToggleHorse
+"&Mount / Dismount"
+END
+
+CONTROLBAR:CAH_HotW_Conquer
+"Conq&uer"
+END
+
+CONTROLBAR:SpecialAbilityHotWCrippleStrikeMelee_Level1
+"&Cripple Strike"
+END
+
+CONTROLBAR:SpecialAbilityHotWCrippleStrikeMelee_Level2
+"Improved &Cripple Strike"
+END
+
+CONTROLBAR:CAH_A_TrueSight
+"Tr&uesight"
+END
+
+CONTROLBAR:SpecialAbilityCreateAHeroArcherToggleWeapon
+"&Toggle Weapon"
+END
+
+CONTROLBAR:SpecialAbilityCrippleStrikeRanged_Level1
+"&Cripple Shot"
+END
+
+CONTROLBAR:SpecialAbilityCrippleStrikeRanged_Level2
+"Improved &Cripple Shot"
+END
+
+CONTROLBAR:SpecialAbilityCrippleStrikeRanged_Level3
+"Great &Cripple Shot"
+END
+
+CONTROLBAR:SpecialAbilityCrippleStrikeRanged_Level4
+"Superior &Cripple Shot"
+END
+
+CONTROLBAR:CAH_RainOfArrows_Level1
+"Rain of Arro&ws"
+END
+
+CONTROLBAR:CAH_RainOfArrows_Level2
+"Improved Rain of Arro&ws"
+END
+
+CONTROLBAR:CAH_RainOfArrows_Level3
+"Mighty Rain of Arro&ws"
+END
+
+CONTROLBAR:CAH_Healing_Level1
+"Self-Hea&l"
+END
+
+CONTROLBAR:CAH_Healing_Level2
+"Improved Se&lf-Heal"
+END
+
+CONTROLBAR:CAH_SummonFamiliar_Level1
+"Summon Familia&r"
+END
+
+CONTROLBAR:CAH_SummonFamiliar_Level2
+"Improved Summon Familia&r"
+END
+
+CONTROLBAR:CAH_SummonFamiliar_Level3
+"Great Summon Familia&r"
+END
+
+CONTROLBAR:CAH_SpawnTornado_Level1
+"&Whirlwind"
+END
+
+CONTROLBAR:CAH_SpawnTornado_Level2
+"Improved &Whirlwind"
+END
+
+CONTROLBAR:CAH_SpawnTornado_Level3
+"Great &Whirlwind"
+END
+
+CONTROLBAR:CAH_BallLightning_L1
+"Ball Ligh&tning"
+END
+
+CONTROLBAR:CAH_BallLightning_L2
+"Improved Ball Ligh&tning"
+END
+
+CONTROLBAR:CAH_BallLightning_L3
+"Mighty Ball Ligh&tning"
+END
+
+CONTROLBAR:SpecialAbilityHeroBlink
+"Blin&k"
+END
+
+CONTROLBAR:SpecialAbilityCAHFireball1
+"Fi&reball"
+END
+
+CONTROLBAR:SpecialAbilityCAHFireball2
+"Improved Fi&reball"
+END
+
+CONTROLBAR:SpecialAbilityCAHFireball3
+"Mighty Fi&reball"
+END
+
+CONTROLBAR:LightBlast_Level1
+"L&ightblast"
+END
+
+CONTROLBAR:LightBlast_Level2
+"Improved L&ightblast"
+END
+
+CONTROLBAR:LightBlast_Level3
+"Great L&ightblast"
+END
+
+CONTROLBAR:ConvertEnemy_L1
+"Con&vert Enemy"
+END
+
+CONTROLBAR:ConvertEnemy_L2
+"Improved Con&vert Enemy"
+END
+
+CONTROLBAR:CAH_Curse_Level1
+"&Curse Enemy"
+END
+
+CONTROLBAR:CAH_Curse_Level2
+"Improved &Curse Enemy"
+END
+
+CONTROLBAR:CAH_Curse_Level3
+"Great &Curse Enemy"
+END
+
+CONTROLBAR:ForcePush_Level1
+"&Wizard Blast"
+END
+
+CONTROLBAR:ForcePush_Level2
+"Improved &Wizard Blast"
+END
+
+CONTROLBAR:ForcePush_Level3
+"Mighty &Wizard Blast"
+END
+
+CONTROLBAR:TeleportLevel1
+"Te&leport"
+END
+
+CONTROLBAR:TeleportLevel2
+"Improved Te&leport"
+END
+
+CONTROLBAR:TeleportLevel3
+"Great Te&leport"
+END
+
+CONTROLBAR:CAH_W_TrueSight
+"Tr&uesight"
+END
+
+CONTROLBAR:CAH_AxeThrow_Level1
+"Axe &Throw"
+END
+
+CONTROLBAR:CAH_AxeThrow_Level2
+"Improved Axe &Throw"
+END
+
+CONTROLBAR:CAH_AxeThrow_Level3
+"Mighty Axe &Throw"
+END
+
+CONTROLBAR:CAH_BattleRage_Level1
+"Battle &Rage"
+END
+
+CONTROLBAR:CAH_BattleRage_Level2
+"Improved Battle &Rage"
+END
+
+CONTROLBAR:CAH_BattleRage_Level3
+"Great Battle &Rage"
+END
+
+CONTROLBAR:CAH_BattleRage_Level4
+"Superior Battle &Rage"
+END
+
+CONTROLBAR:CAH_Bombard_Level1
+"Bo&mbard"
+END
+
+CONTROLBAR:CAH_Bombard_Level2
+"Improved Bo&mbard"
+END
+
+CONTROLBAR:CAH_Bombard_Level3
+"Great Bo&mbard"
+END
+
+CONTROLBAR:CAH_Charge_Level1
+"&Charge"
+END
+
+CONTROLBAR:CAH_Charge_Level2
+"Improved &Charge"
+END
+
+CONTROLBAR:CAH_Charge_Level3
+"Mighty &Charge"
+END
+
+CONTROLBAR:CAH_ClearGarrisoned
+"Clear Garr&isoned"
+END
+
+CONTROLBAR:CAH_EarthShaker_Level1
+"Earthsha&ker"
+END
+
+CONTROLBAR:CAH_EarthShaker_Level2
+"Improved Earthsha&ker"
+END
+
+CONTROLBAR:CAH_EarthShaker_Level3
+"Mighty Earthsha&ker"
+END
+
+CONTROLBAR:CAH_Leap_Level1
+"&Leap"
+END
+
+CONTROLBAR:CAH_Leap_Level2
+"Improved &Leap"
+END
+
+CONTROLBAR:CAH_Sapper_Level1
+"Sa&pper"
+END
+
+CONTROLBAR:CAH_Sapper_Level2
+"Improved Sa&pper"
+END
+
+CONTROLBAR:CAH_Sapper_Level3
+"Mighty Sa&pper"
+END
+
+CONTROLBAR:CAH_WillPower_Level1
+"&Will Power"
+END
+
+CONTROLBAR:SoSSummonAllies_Level1
+"Ca&ll Reinforcements"
+END
+
+CONTROLBAR:SoSSummonAllies_Level2
+"Improved Ca&ll Reinforcements"
+END
+
+CONTROLBAR:SoSSummonAllies_Level3
+"Great Ca&ll Reinforcements"
+END
+
+CONTROLBAR:SoSSummonAllies_Level4
+"Superior Ca&ll Reinforcements"
+END
+
+CONTROLBAR:CAH_BerserkerRage_L1
+"Berserker &Rage"
+END
+
+CONTROLBAR:CAH_BerserkerRage_L2
+"Improved Berserker &Rage"
+END
+
+CONTROLBAR:CAH_BerserkerRage_L3
+"Great Berserker &Rage"
+END
+
+CONTROLBAR:CAH_BerserkerRage_L4
+"Superior Berserker &Rage"
+END
+
+CONTROLBAR:CAH_FireBomb_Level1
+"Firebo&mb"
+END
+
+CONTROLBAR:CAH_FireBomb_Level2
+"Improved Firebo&mb"
+END
+
+CONTROLBAR:CAH_FireBomb_Level3
+"Mighty Firebo&mb"
+END
+
+CONTROLBAR:CAH_FireBomb_Level4
+"Superior Firebo&mb"
+END
+
+CONTROLBAR:CAH_UntamedAllegiance
+"&Untamed Allegiance"
+END
+
+CONTROLBAR:CAH_HowlOfRage_Level1
+"Ho&wl of Rage"
+END
+
+CONTROLBAR:CAH_HowlOfRage_Level2
+"Improved Ho&wl of Rage"
+END
+
+CONTROLBAR:CAH_HowlOfRage_Level3
+"Great Ho&wl of Rage"
+END
+
+CONTROLBAR:CAH_Infernal_L1
+"&Infernal"
+END
+
+CONTROLBAR:CAH_Infernal_L2
+"Improved &Infernal"
+END
+
+CONTROLBAR:CAH_InspireFear_Level2
+"Improved Ins&pire Fear"
+END
+
+CONTROLBAR:CAH_SpillOil_Level1
+"Oil Spill / Ligh&t Fire"
+END
+
+CONTROLBAR:CAH_SpillOil_Level2
+"Improved Oil Spill / Ligh&t Fire"
+END
+
+CONTROLBAR:CAH_SpillOil_Level3
+"Great Oil Spill / Ligh&t Fire"
+END
+
+CONTROLBAR:SpecialAbilitySoSCrippleStrikeMelee_Level1
+"&Cripple Strike"
+END
+
+CONTROLBAR:SpecialAbilitySoSCrippleStrikeMelee_Level2
+"Improved &Cripple Strike"
+END
+
+CONTROLBAR:CAH_Assassin_Level1
+"Assass&in"
+END
+
+CONTROLBAR:CAH_Assassin_Level2
+"Improved Assass&in"
+END
+
+CONTROLBAR:CAH_Assassin_Level3
+"Mighty Assass&in"
+END
+
+CONTROLBAR:CAH_Assassin_Level4
+"Superior Assass&in"
+END
+
+CONTROLBAR:CAH_AttachSpy_Level1
+"Attach Sp&y"
+END
+
+CONTROLBAR:CAH_AttachSpy_Level2
+"Improved Attach Sp&y"
+END
+
+CONTROLBAR:CAH_StealMoney_Level1
+"Steal &Resources"
+END
+
+CONTROLBAR:CAH_StealMoney_Level2
+"Improved Steal &Resources"
+END
+
+CONTROLBAR:CAH_StealMoney_Level3
+"Great Steal &Resources"
+END
+
+CONTROLBAR:CAH_CM_Conquer
+"Co&nquer"
+END
+
+CONTROLBAR:SpecialAbilityCreateAHeroCorruptedManToggleWeapon_Level1
+"&Toggle Weapon"
+END
+
+CONTROLBAR:SpecialAbilityCreateAHeroCorruptedManToggleWeapon_Level2
+"Improved &Toggle Weapon"
+END
+
+CONTROLBAR:CAH_Coerce_Level1
+"&Coerce"
+END
+
+CONTROLBAR:CAH_Coerce_Level2
+"Improved &Coerce"
+END
+
+CONTROLBAR:CAH_Coerce_Level3
+"Great &Coerce"
+END
+
+CONTROLBAR:CAH_Coerce_Level4
+"Disg&uise"
+END
+
+CONTROLBAR:FireWeaponMightyCatapult
+"Launch Mighty &Catapult"
+END
+
+CONTROLBAR:ArnorArvelegHotkey
+"Ar&veleg"
+END
+
+CONTROLBAR:ArnorArgelebHotkey
+"Ar&geleb"
+END
+
+CONTROLBAR:ArnorArveduiHotkey
+"Arve&dui"
+END
+
+CONTROLBAR:ConstructArnorFarm
+"Build Fa&rm"
+END
+
+CONTROLBAR:ConstructArnorBarracks
+"Build Barra&cks"
+END
+
+CONTROLBAR:ConstructArnorArcheryRange
+"Build Archer&y Range"
+END
+
+CONTROLBAR:ConstructArnorStable
+"Build St&ables"
+END
+
+CONTROLBAR:ConstructArnorWorkshop
+"Build Sie&ge Works"
+END
+
+CONTROLBAR:ConstructArnorSentryTower
+"Build Ba&ttle Tower"
+END
+
+CONTROLBAR:ConstructArnorWallHub
+"&Wall Hub"
+END
+
+CONTROLBAR:ConstructArnorFortress
+"&Fortress"
+END
+
+CONTROLBAR:ConstructArnorWell
+"Bui&ld Well"
+END
+
+CONTROLBAR:ConstructArnorBlacksmith
+"Build Blac&ksmith"
+END
+
+CONTROLBAR:ConstructArnorMarketPlace
+"Build &Marketplace"
+END
+
+CONTROLBAR:ConstructArnorForgeLevel2Upgrade
+"&Upgrade Blacksmith to Level 2"
+End
+
+CONTROLBAR:ConstructArnorForgeLevel3Upgrade
+"&Upgrade Blacksmith to Level 3"
+End
+
+CONTROLBAR:ConstructArnorArcheryRangeLevel2Upgrade
+"&Upgrade Archery Range to Level 2"
+END
+
+CONTROLBAR:ConstructArnorArcheryRangeLevel3Upgrade
+"&Upgrade Archery Range to Level 3"
+END
+
+CONTROLBAR:ConstructArnorBarracks2Upgrade
+"&Upgrade Barracks to Level 2"
+END
+
+CONTROLBAR:ConstructArnorBarracksLevel3Upgrade
+"&Upgrade Barracks to Level 3"
+END
+
+CONTROLBAR:ConstructArnorStable2Upgrade
+"&Upgrade Stables to Level 2"
+END
+
+CONTROLBAR:ConstructArnorStableLevel3Upgrade
+"&Upgrade Stables to Level 3"
+END
+
+CONTROLBAR:ConstructArnorWorkshop2Upgrade
+"&Upgrade Siege Works to Level 2"
+END
+
+CONTROLBAR:ConstructArnorWorkshopLevel3Upgrade
+"&Upgrade Siege Works to Level 3"
+END
+
+CONTROLBAR:ConstructArnorArcherHorde
+"Arnor Ar&chers"
+END
+
+CONTROLBAR:ConstructArnorRangerHorde
+"Ithilien &Rangers"
+END
+
+CONTROLBAR:ConstructArnorFighterHorde
+"Dunedain &Soldiers"
+END
+
+CONTROLBAR:ConstructArnorShieldGuardHorde
+"Arnor &Tower Guards"
+END
+
+CONTROLBAR:ConstructArnorKnightHorde
+"Arnor &Knights"
+END
+
+CONTROLBAR:ConstructArnorTrebuchet
+"T&rebuchet"
+END
+
+CONTROLBAR:PurchaseTechnologyArnorFireArrows
+"Research Fire Arro&ws Upgrade"
+END
+
+CONTROLBAR:PurchaseTechnologyArnorForgedBlades
+"&Forged Blade Upgrade"
+END
+
+CONTROLBAR:PurchaseUpgradeArnorForgedBlades
+"Forged B&lades"
+END
+
+CONTROLBAR:PurchaseTechnologyArnorHeavyArmor
+"Hea&vy Armor"
+END
+
+CONTROLBAR:PurchaseUpgradeArnorHeavyArmor
+"Hea&vy Armor"
+END
+
+CONTROLBAR:PurchaseUpgradeArnorBasicTraining
+"Ba&nner Carrier Upgrade"
+END
+
+CONTROLBAR:SelectUpgradesArnorFortress
+"Fortress &Upgrades"
+END
+
+CONTROLBAR:SelectRevivablesArnorFortress
+"He&roes"
+END
+
+CONTROLBAR:ConstructArnorTrebuchetExpansion
+"&Trebuchet Expansion"
+END
+
+CONTROLBAR:ConstructArnorArrowTowerExpansion
+"A&rrow Tower Expansion"
+END
+
+CONTROLBAR:ConstructArnorDormitory
+"&Dormitory Expansion"
+END
+
+CONTROLBAR:Command_ConstructArnorWallHubExpansion
+"&Wall Hub Expansion"
+END
+
+CONTROLBAR:PurchaseUpgradeArnorFortressNumenorStonework
+"Numenor S&tonework"
+END
+
+CONTROLBAR:PurchaseUpgradeArnorFortressFlamingMunitions
+"&Flaming Munitions"
+END
+
+CONTROLBAR:PurchaseUpgradeArnorFortressBanners
+"Ba&nners"
+END
+
+CONTROLBAR:PurchaseUpgradeArnorFortressHouseOfHealing
+"House of Healin&g"
+END
+
+CONTROLBAR:PurchaseUpgradeArnorFortressIvoryTower
+"I&vory Tower"
+END
+
+CONTROLBAR:PurchaseUpgradeArnorFortressBoilingOil
+"Bo&iling Oil"
+END
+
+CONTROLBAR:Command_ArnorWallUpgradeToHub
+"&Wall Hub"
+END
+
+CONTROLBAR:Command_ArnorWallUpgradeToRegularGate
+"&Gate"
+END
+
+CONTROLBAR:Command_ArnorWallUpgradeToPosternGate
+"&Postern Gate"
+END
+
+CONTROLBAR:Command_ArnorWallUpgradeToTower
+"A&rrow Tower"
+END
+
+CONTROLBAR:Command_ArnorWallUpgradeToTrebuchet
+"&Trebuchet"
+END
+
+CONTROLBAR:ConstructAngmarDen
+"Build Troll and Wolf &Den"
+END
+
+CONTROLBAR:UpgradeAngmarDenLevel2
+"&Upgrade Den to Level 2"
+End
+
+CONTROLBAR:UpgradeAngmarDenLevel3
+"&Upgrade Den to Level 3"
+End
+
+CONTROLBAR:ConstructHallofTwilight
+"Build &Temple of Twilight"
+END
+
+CONTROLBAR:UpgradeAngmarHallofTwilightLevel2
+"&Upgrade Temple of Twilight to Level 2"
+End
+
+CONTROLBAR:UpgradeAngmarHallofTwilightLevel3
+"&Upgrade Temple of Twilight to Level 3"
+End
+
+CONTROLBAR:ConstructAngmarForgeWorks
+"Build Dark &Iron Forge"
+END
+
+CONTROLBAR:UpgradeAngmarForgeWorksLevel2
+"&Upgrade Dark Iron Forge to Level 2"
+End
+
+CONTROLBAR:UpgradeAngmarForgeWorksLevel3
+"&Upgrade Dark Iron Forge to Level 3"
+End
+
+CONTROLBAR:PurchaseUpgradeAngmarFortressBanners
+"&Flames of Darkness"
+END
+
+CONTROLBAR:ConstructAngmarStoneThrowerExpansion
+"Troll &Stone Thrower Expansion"
+END
+
+CONTROLBAR:ConstructAngmarBattleTowerExpansion
+"Battle &Tower Expansion"
+END
+
+CONTROLBAR:ConstructAngmarKennelExpansion
+"Dire Wolf &Kennel Expansion"
+END
+
+CONTROLBAR:Command_ConstructAngmarWallHubExpansion
+"&Wall Hub Expansion"
+END
+
+CONTROLBAR:PurchaseUpgradeAngmarFortressIceWalls
+"Ice &Walls"
+END
+
+CONTROLBAR:PurchaseUpgradeAngmarFortressIceMunitions
+"Ice &Munitions"
+END
+
+CONTROLBAR:PurchaseUpgradeAngmarFortressSpikes
+"S&pike Moat"
+END
+
+CONTROLBAR:PurchaseUpgradeAngmarFortressHouseOfLamentation
+"House of &Lamentation"
+END
+
+CONTROLBAR:PurchaseUpgradeAngmarFortressSanctum
+"Witch-king's San&ctum"
+END
+
+CONTROLBAR:ConstructAngmarPorter
+"Recruit Bui&lder"
+End
+
+CONTROLBAR:AngmarMorgramirHotkey
+"&Morgomir"
+End
+
+CONTROLBAR:RogashLeap
+"&Leap"
+END
+
+CONTROLBAR:RageoftheNorth
+"&Rage of the North"
+END
+
+CONTROLBAR:DarkGlory
+"Dar&k Glory"
+END
+
+CONTROLBAR:MorgramirRuin
+"&Ruin"
+END
+
+CONTROLBAR:AngmarHwaldarHotkey
+"Hwa&ldar"
+End
+
+CONTROLBAR:HwaldarSummonHillmen1
+"S&ummon Hillmen"
+END
+
+CONTROLBAR:HwaldarSummonHillmen2
+"S&ummon Hillmen Hordes"
+END
+
+CONTROLBAR:ConstructAngmarMill
+"Build &Mill"
+END
+
+CONTROLBAR:ConstructAngmarBattleTower
+"Build Battle &Tower"
+END
+
+CONTROLBAR:ConstructAngmarBarracks
+"Build Hall of the &King's Men"
+End
+
+CONTROLBAR:ConstructAngmarHallofTwilight
+"Build Temple of Twi&light"
+End
+
+CONTROLBAR:ConstructAngmarBarracks2Upgrade
+"&Upgrade Hall of the King's Men to Level 2"
+End
+
+CONTROLBAR:ConstructAngmarThrallMaster
+"Thrall &Master"
+End
+
+CONTROLBAR:ConstructAngmarDarkDunedainHorde
+"Blac&k Numenoreans"
+End
+
+CONTROLBAR:ConstructAngmarDarkRangerHorde
+"Dark &Rangers"
+End
+
+CONTROLBAR:ConstructAngmarBarracksLevel3Upgrade
+"&Upgrade Hall of the King's Men to Level 3"
+End
+
+CONTROLBAR:ConstructAngmarDen2Upgrade
+"&Upgrade Troll and Wolf Den to Level 2"
+End
+
+CONTROLBAR:ConstructAngmarDen3Upgrade
+"&Upgrade Troll and Wolf Den to Level 3"
+End
+
+CONTROLBAR:ConstructAngmarDireWolfHorde
+"&Dire Wolf Pack"
+End
+
+CONTROLBAR:AngmarDireWolfHowl
+"Ho&wl"
+END
+
+CONTROLBAR:ConstructAngmarSnowTrollHorde
+"Sno&w Trolls"
+End
+
+CONTROLBAR:ConstructAngmarHillTrollHorde
+"Hi&ll Trolls"
+End
+
+CONTROLBAR:ThrallMasterUpgradeOrcWarriors
+"Gundabad Wa&rriors"
+End
+
+CONTROLBAR:ThrallMasterUpgradeWolfRiders
+"&Wolf Riders"
+End
+
+CONTROLBAR:ThrallMasterUpgradeRhudaurSpearmen
+"Rhudaur S&pearmen"
+End
+
+CONTROLBAR:ThrallMasterUpgradeRhudaurSlingers
+"Rhudaur Axe &Throwers"
+End
+
+CONTROLBAR:ConstructAngmarTrollSling
+"Troll &Stone Thrower"
+End
+
+CONTROLBAR:AngmarChargeAttack
+"&Charge Attack"
+End
+
+CONTROLBAR:AngmarTrollChargeAttack
+"&Charge Attack"
+End
+
+CONTROLBAR:AngmarRogashHotkey
+"Ro&gash"
+End
+
+CONTROLBAR:AngmarKarshHotkey
+"&Karsh"
+End
+
+CONTROLBAR:ConstructAngmarNecromancerHorde
+"So&rcerer"
+End
+
+CONTROLBAR:ConstructAngmarHallofTwilight2Upgrade
+"&Upgrade Temple of Twilight to Level 2"
+End
+
+CONTROLBAR:ConstructAngmarHallofTwilightLevel3Upgrade
+"&Upgrade Temple of Twilight to Level 3"
+End
+
+CONTROLBAR:WhisperofDeath
+"&Whisper of Death"
+End
+
+CONTROLBAR:NecroBlackIce
+"Black &Ice"
+End
+
+CONTROLBAR:NecroFellStrength
+"Fell S&trength"
+End
+
+CONTROLBAR:NecroSoulFreeze
+"Sou&l Freeze"
+End
+
+CONTROLBAR:PurchaseUpgradeSoulFreeze
+"Sou&l Freeze"
+End
+
+CONTROLBAR:NecroWellOfSouls
+"&Well of Souls"
+End
+
+CONTROLBAR:PurchaseUpgradeWellOfSouls
+"&Well of Souls"
+End
+
+CONTROLBAR:NecroCorpseRain
+"&Corpse Rain"
+End
+
+CONTROLBAR:PurchaseUpgradeCorpseRain
+"&Corpse Rain"
+End
+
+CONTROLBAR:PurchaseTechnologyAngmarSpikedCollars
+"Hea&vy Spiked Collars"
+End
+
+CONTROLBAR:ArnorLongShotAbility
+"Longsho&t"
+End
+
+CONTROLBAR:WitchkingMorgulCorruption
+"Morgu&l Corruption"
+END
+
+CONTROLBAR:WkTerribleFury
+"&Terrible Fury"
+END
+
+CONTROLBAR:Command_AngmarWallUpgradeToTower
+"Purchase Battle &Tower"
+End
+
+CONTROLBAR:Command_AngmarWallUpgradeToHub
+"&Wall Hub"
+End
+
+CONTROLBAR:Command_AngmarWallUpgradeToRegularGate
+"&Gate"
+End
+
+CONTROLBAR:Command_AngmarWallUpgradeToPosternGate
+"&Postern Gate"
+End
+
+CONTROLBAR:Command_AngmarWallUpgradeToCatapult
+"Troll &Stone Thrower"
+End
+
+CONTROLBAR:MordorKhamulHotkey
+//"&Fellbeast"
+"&Khamul"
+END
+
+CONTROLBAR:MordorMorgomirHotkey
+//"&Fellbeast"
+"Mo&rgomir"
+END
+
+CONTROLBAR:ConstructMordorBlackOrcHorde
+"Blac&k Orc Warriors"
+END
+
+CONTROLBAR:ToolTipBuildMordorGothmog
+"Recruit &Gothmog"
+END
+
+CONTROLBAR:MordorGothmogHotkey
+"&Gothmog"
+END
+
+CONTROLBAR:SpecialAbilityGothmogCarnage    
+"Fur&y"
+END
+
+CONTROLBAR:ConstructMordorHaradrimRiderHorde
+"Haradrim &Lancers"
+END
+
+CONTROLBAR:UpgradeIsengardTavernLevel2
+"&Upgrade Clan Steading to Level 2"
+End
+
+CONTROLBAR:UpgradeIsengardTavernLevel3
+"&Upgrade Clan Steading to Level 3"
+End
+
+CONTROLBAR:ConstructIsengardTavern
+"Build Cla&n Steading"
+END
+
+CONTROLBAR:ConstructIsengardBerserkerHorde
+"Uruk Dea&thbringers"
+End
+
+CONTROLBAR:ConstructIsengardWildmanAxeHorde
+"Wildmen Axe &Throwers"
+End
+
+CONTROLBAR:ConstructIsengardWargPack
+"Warg &Pack"
+END
+
+CONTROLBAR:ZerkSlayer
+"Berser&kergang"
+END
+
+CONTROLBAR:ConstructDwarvenZerkerHorde
+"&Dwarven Zealots"
+END
+
+CONTROLBAR:ConstructNoldorWarriorHorde
+"&Noldor Warriors"
+END
+
+CONTROLBAR:NoldorWeaponSong
+"&Weapon Song"
+END
+
+CONTROLBAR:ConstructRohanSpearmenHorde
+"Rohan S&pearmen"
+END
+
+CONTROLBAR:ConstructGondorKnightsofDolHorde
+"Knights of &Dol Amroth"
+END
+
+CONTROLBAR:KnightsofDolChargeofGlory
+"&Charge of Glory"
+END
+
+CONTROLBAR:ConstructWildMarauderSwordHorde
+"Half-Troll Swor&dsmen"
+END
+
+CONTROLBAR:WildAzogHotKey
+"Azog of &Moria"
+END
+
+CONTROLBAR:AzogCracktheWhip
+"Crack the &Whip"
+END
+
+CONTROLBAR:ConstructWildBabyDrakeHorde
+"Fire Drake B&rood"
+END
+
+CONTROLBAR:DaleSlamArrow
+"Sla&m Shot"
+END
+
+CONTROLBAR:FanaticDeathWish
+"Death&wish"
+END
+
+CONTROLBAR:FanaticStoneWall
+"S&tonewall"
+END
+
+CONTROLBAR:AngmarCatapultUpgrade
+"&Replace Stone Thrower"
+END
+
+CONTROLBAR:GondorEarnurHotkey
+"&Earnur"
+END
+
+CONTROLBAR:EvacuateAll
+"E&vacuate All"
+End
+
+CONTROLBAR:ConstructFireDrake
+//"Summon &Fire Drake"
+"&Fire Drake"
+END
+
+CONTROLBAR:SpecialAbilityWyrmReposition
+//"Reposition"
+"&Reposition"
+End
+
+CONTROLBAR:ConstructElvenLorienWarriorHorde
+//"Train Lorien &Warriors"
+"Lorien &Warriors"
+END
+
+CONTROLBAR:ConstructElvenLorienArcherHorde
+//"Tr&ain Lorien Archers"
+"Lorien &Archers"
+END
+
+CONTROLBAR:ConstructElvenMithlondSentryHorde
+//"Train &Mithlond Sentries"
+"&Mithlond Sentries"
+END
+
+CONTROLBAR:ConstructElvenMirkwoodArcherHorde
+//"Train Mir&kwood Archers"
+"Mir&kwood Archers"
+END
+
+CONTROLBAR:BuildElvenRivendellLancers
+//"Train Rivende&ll Lancers"
+"Rivende&ll Lancers"
+END
+
+CONTROLBAR:BuildElvenRivendellArchers
+//"Train Lindon Horse A&rchers"
+"Lindon Horse A&rchers"
+END
+
+CONTROLBAR:ConstructElvenHobbitShirrif
+//"Hobbits"
+"Hobbi&ts"
+End
+
+CONTROLBAR:PurchaseUpgradeElvenBarracksLevel3
+//"&Upgrade to Level 3"
+"&Upgrade Elven Barracks to Level 3"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenSilverthornArrowsForBattleTower
+"Silverthorn Arro&ws"
+END
+
+CONTROLBAR:PurchaseUpgradeElvenFortressFlamingMunitions
+"Silverthorn Arro&ws"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenSiegeHammer
+//"Upgrade with S&iege Hammers"
+"Purchase S&iege Hammers"
+END
+
+CONTROLBAR:PurchaseUpgradeDwarvenFlamingShot
+//"Upgrade wi&th Flaming Shot"
+"Purchase Flaming Sho&t"
+End
+
+CONTROLBAR:PurchaseUpgradeSentryTowerForgedBlades
+//"Forged B&lades Upgrade"
+"Forged B&lades"
+END
+
+CONTROLBAR:PurchaseUpgradeIsengardTorches
+//"Upgrade wi&th Torches"
+"Purchase &Torches"
+End
+
+CONTROLBAR:PurchaseUpgradeMorderHeavyArmor
+//"Hea&vy Armor"
+"Purchase Hea&vy Armor"
+END
+
+CONTROLBAR:ConstructMordorMumakilPen
+//"Build &Mumakil Pen"
+"Build &Mumak Pen"
+END
+
+CONTROLBAR:ConstructMordorMumakil
+//"&Mumakil"
+"&Mumak"
+END
+
+CONTROLBAR:UpgradeMordorMumakilPenLevel2
+//"&Upgrade Mumakil Pen to Level 2"
+"&Upgrade Mumak Pen to Level 2"
+End
+
+CONTROLBAR:UpgradeMordorMumakilPenLevel3
+//"&Upgrade Mumakil Pen to Level 3"
+"&Upgrade Mumak Pen to Level 3"
+End
+
+CONTROLBAR:BlackRiderRecruit	
+//"Recruit the Blac&k Riders"
+"Blac&k Riders"
+END
+
+CONTROLBAR:PurchaseUpgradeAngmarDarkIronBlades
+//"Dark Iron B&lades"
+"Purchase Dark Iron B&lades"
+End
+
+CONTROLBAR:PurchaseUpgradeAngmarIceArrows
+"Purchase Ice Arro&ws"
+End
+
+CONTROLBAR:PurchaseUpgradeAngmarSpikedCollars
+//"Hea&vy Spiked Collars"
+"Purchase Hea&vy Spiked Collars"
+End
+
+CONTROLBAR:PurchaseUpgradeAngmarIceShot
+//"I&ce Shot"
+"Pur&chase Ice Shot"
+END
+
+CONTROLBAR:PurchaseTechnologyAngmarIceShot
+//"&Ice Shot"
+"Research &Ice Shot"
+End
+
+CONTROLBAR:PurchaseTechnologyAngmarDarkIronBlades
+//"Dark Iron B&lades"
+"Research Dark Iron B&lades"
+End
+
+CONTROLBAR:PurchaseTechnologyAngmarIceArrows
+//"Ice Arro&ws"
+"Research Ice Arro&ws"
+End
+
+CONTROLBAR:PurchaseTechnologyAngmarIceArrowsForBattleTower
+"Ice Arro&ws"
+END
+
+CONTROLBAR:FireWeaponAngmarFortressSanctumFrostball
+//"&Fire Witch-king's Sanctum Winter's Wrath"
+"&Winter's Wrath"
+END
+
+CONTROLBAR:AngmarWitchKingHotkey
+//"&Witch-king"
+"The &Witch-king"
+END
+
+CONTROLBAR:SpecialAbilityVenomSacSpider
+"&Venom Sacs"
+End
+
+CONTROLBAR:ConstructAngmarWildmanHorde
+"&Rhudaur Hillmen"
+END
+
+CONTROLBAR:MordorWitchkingMorgulCorruption
+"Morgu&l Corruption"
+End
+
+CONTROLBAR:Trollfindunittothrow
+"&Pick up Goblin / Orc"
+END
+
+CONTROLBAR:Dominate
+//"Wormto&ngue"
+"Domi&nate"
+END
+
+CONTROLBAR:SpecialAbilityHumanHeads
+"Launch S&kulls"
+END
+
+CONTROLBAR:ToggleBrandWeapons
+"&Toggle Weapon"
+END
+
+CONTROLBAR:DwarvenCaptainofDaleHotkey
+//"Prince Brand, Ca&ptain of Dale"
+"&King Brand"
+END
+
+CONTROLBAR:SpecialAbilityShieldBubble
+//"Shield Bubble (&G)"
+"Shield B&ubble"
+END
+
+CONTROLBAR:DaleBeastSlayerArrow
+//"Beas&t Slayer Arrow"
+"Beast Sla&yer Arrow"
+END
+
+CONTROLBAR:Knife
+"&Knife"
+End
+
+CONTROLBAR:ConstructRohanElvenWarriorHorde
+//"Lorien Warriors"
+"Galadhrim &Warriors"
+End
+
+CONTROLBAR:ConstructMordorHaradrimLancerHorde
+"Haradrim &Spearmen"
+END
+
+CONTROLBAR:PurchaseUpgradeRohirrimShields
+"Pur&chase Rohirrim Shields"
+END
+
+CONTROLBAR:FrodoOneRing
+"The One R&ing"
+END
+
+CONTROLBAR:SpecialAbilityOilBarrels
+//"Oil Barrels"
+//"O&il Barrels"
+//"Oil &Barrels"
+"Oil Ba&rrels"
+End
+
+CONTROLBAR:PurchaseUpgradeAngmarDarkIronMail
+//"Dark &Iron Mail"
+//"Purchase Dark &Iron Mail"
+"Purchase Hea&vy Dark Iron Mail"
+End
+
+CONTROLBAR:PurchaseTechnologyAngmarDarkIronMail
+//"Dark Iron Hea&vy Mail"
+//"Research Dark Iron &Mail"
+"Research Hea&vy Dark Iron Mail"
+End
+
+CONTROLBAR:PurchaseTechnologyAngmarSoulFreeze
+//"Soul Freeze"
+"Sou&l Freeze"
+End
+
+CONTROLBAR:PurchaseTechnologyAngmarWellOfSouls
+//"Well of Souls"
+"&Well of Souls"
+End
+
+CONTROLBAR:PurchaseTechnologyAngmarCorpseRain
+//"Corpse Rain"
+"&Corpse Rain"
+End
+
+CONTROLBAR:MenLongShotAbilitySummoned
+"Longsho&t"
+End
+
+CONTROLBAR:BattleWagonUpgradeAxeThrowers
+//"Upgrade &with Axe Throwers"
+"Upgrade with A&xe Throwers"
+End
+
+CONTROLBAR:BattleWagonUpgradeBannerCarrier
+"Upgrade with Ba&nner Carrier"
+End
+
+CONTROLBAR:BattleWagonUpgradeHearth
+//"Upgrade wi&th Hearth"
+"Upgrade with He&arth"
+End
+
+CONTROLBAR:BattleWagonUpgradeMenOfDale
+"Upgrade with Men of Da&le"
+End
+
+CONTROLBAR:Elendil
+//"&Elendil"
+"E&lendil"
+END
+
+CONTROLBAR:SpecialAbilityIronHillsCatapultOilBarrels
+"Oil Barre&ls"
+End
+
+CONTROLBAR:Shadowfax
+//"&Mount / Dismount"
+"&Mount / Dismount Shadowfax"
+END
+
+CONTROLBAR:FryingPan
+//"Frying Pan"
+"F&rying Pan"
+END
+
+CONTROLBAR:ToggleWitchkingWeapons
+"&Toggle Weapon"
+END
+
+CONTROLBAR:ShelobWebbing
+//"Webbing"
+"&Webbing"
+End
+
+CONTROLBAR:GondorDamrodHotkey
+//"Damrod"
+"&Damrod"
+END
+
+CONTROLBAR:SpecialPowerRallyRangers
+//"Rally Rangers"
+"&Rally Rangers"
+END
+
+CONTROLBAR:SpecialPowerDeadlySniper
+//"Use Damrod as sniper"
+"Deadly Sni&per"
+END

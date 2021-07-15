@@ -1,0 +1,27 @@
+[
+{
+  "id": "CONTROLBAR:ConstructMenStatue",
+  "name": "Build Heroic Statue",
+  "category": "building",
+  "faction": "men"
+},
+{
+  "id": "CONTROLBAR:ConstructMenBarracks",
+  "name": "Build Barracks",
+  "category": "building",
+  "faction": "men"
+},
+{
+  "id": "CONTROLBAR:ConstructMenArcheryRange",
+  "name": "Build Archery Range",
+  "category": "building",
+  "faction": "men"
+},
+{
+  "id": "CONTROLBAR:ConstructGondorArcherHorde",
+  "name": "Gondor Archers",
+  "category": "unit",
+  "faction": "men",
+  "ref": "CONTROLBAR:ConstructMenArcheryRange"
+}
+]
