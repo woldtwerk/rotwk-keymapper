@@ -11,6 +11,7 @@ export default defineConfig({
   server: {
     https: true,
   },
+  base: './',
   resolve: {
     alias: {
       '@': resolve(__dirname, '/src'),
